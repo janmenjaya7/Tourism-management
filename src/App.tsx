@@ -4,7 +4,10 @@ import "./App.css";
 import Routing from "./component/Router/Routing";
 import Footer from "./component/Comon/Footer";
 import Home from "./component/pages/Home";
+<<<<<<< HEAD
 // import 'bootstrap/dist/css/bootstrap.min.css';
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 // import Navbar from "./component/Comon/Navbar";
 // import Home from "./component/pages/Home";
 // import About from "./component/pages/About";

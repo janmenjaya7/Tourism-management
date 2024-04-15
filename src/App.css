@@ -7,6 +7,7 @@ h1 {
   font-family: "Sevillana", cursive;
   font-weight: bolder;
 }
+<<<<<<< HEAD
 .logo-heading {
   padding-left: 0.5rem;
   font-family: "Sevillana", sans-serif;
@@ -16,6 +17,8 @@ h1 {
   /* text-transform: uppercase; */
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 a {
   text-decoration: none;
   color: #fff;
@@ -40,13 +43,21 @@ footer p {
   padding: 2rem;
   color: #fff;
 }
+<<<<<<< HEAD
 #revies-card-section .revies-card-section-list {
   background: #52668046;
+=======
+#revies-card-section .review-card {
+  background: #4e627d92;
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
   color: #fff;
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
     rgba(0, 0, 0, 0.3) 0px 30px 60px -30px,
     rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+<<<<<<< HEAD
   /* width: 25%; */
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 }
 #revies-card-section p {
   color: #fff;
@@ -69,6 +80,7 @@ footer p {
   max-width: 100%;
   height: 50%;
 } */
+<<<<<<< HEAD
 #serch-sec {
   background-color: transparent;
   color: white;
@@ -81,6 +93,8 @@ footer p {
   color: rgb(255, 255, 255);
   opacity: 0.75;
 }
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 .navbar li {
   font-size: 20px;
   font-weight: bolder;
@@ -92,10 +106,15 @@ footer p {
 li {
   list-style: none;
 }
+<<<<<<< HEAD
 * p {
   color: #455873;
   margin: 0;
   padding: 0;
+=======
+p {
+  color: #455873;
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 }
 footer {
   background: linear-gradient(to right, #6b0505, #ea040481);
@@ -121,16 +140,22 @@ footer {
     #a8eb12
   );
   color: #fff;
+<<<<<<< HEAD
   box-shadow: rgba(0, 0, 0, 0.378) 0px 2px 4px,
     rgba(0, 0, 0, 0.378) 0px 7px 13px -3px,
     rgba(0, 0, 0, 0.37) 0px -3px 0px inset;
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 }
 .swiper-modul {
   position: relative;
   height: 100%;
+<<<<<<< HEAD
   width: 100%;
   z-index: -1;
   background-color: rgba(226, 226, 223, 0.348);
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 }
 
 /* .swiper-modul {
@@ -172,14 +197,21 @@ width: 525px; */
   animation-duration: 5s;
   background-color: yellowgreen; */
 /* } */
+<<<<<<< HEAD
 .story-card-seection h3:hover {
+=======
+.story-card-seection:hover {
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
   text-decoration: underline;
 }
 .story-card-seection {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+<<<<<<< HEAD
   cursor: pointer;
+=======
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 }
 .dropdown-menu-transpar {
   background-color: rgba(140, 140, 140, 0.604);
@@ -211,6 +243,7 @@ width: 525px; */
 }
 .Foreign-Trips-list {
   flex: 0 0 auto;
+<<<<<<< HEAD
   width: 19rem;
   overflow: hidden;
 }
@@ -219,6 +252,11 @@ width: 525px; */
   /* width: 25%; */
 }
 
+=======
+  width: 25%;
+  overflow: hidden;
+}
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
 .card-pill {
   box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
     rgba(0, 0, 0, 0.323) 0px -36px 30px 0px inset,
@@ -237,12 +275,17 @@ width: 525px; */
   color: #fff;
   font-size: 20px;
   border: 1px solid transparent;
+<<<<<<< HEAD
   padding: 12px 12px;
+=======
+  padding: 9px 13px;
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
   border-radius: 15px;
   transition: all 0.3s ease;
   background-color: rgba(255, 255, 255, 0.1);
   border-color: #9cfb03;
   text-decoration: none;
+<<<<<<< HEAD
   display: flex;
   justify-content: center;
   align-items: center;
@@ -251,20 +294,35 @@ width: 525px; */
 .icons-link:hover {
   background-color: rgba(253, 254, 255, 0.471);
   /* border-color: #0521f3; */
+=======
+}
+
+.icons-link:hover {
+  background-color: rgb(99, 151, 247);
+  border-color: #0521f3;
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
   text-decoration: none;
 }
 
 @media (max-width: 760px) {
   .popular-location-list-item,
   .journey-price-detils,
+<<<<<<< HEAD
   .Foreign-Trips-list .revies-card-section-list {
+=======
+  .Foreign-Trips-list {
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
     width: 50%;
   }
 }
 @media (max-width: 576px) {
   .popular-location-list-item,
   .journey-price-detils,
+<<<<<<< HEAD
   .Foreign-Trips-list .revies-card-section-list {
+=======
+  .Foreign-Trips-list {
+>>>>>>> 7a7e236b96e4826b37126ea089515647f5ba6407
     width: 100%;
   }
 }
