@@ -1,7 +1,7 @@
+import img from "../../image/calendar.png";
 import React from "react";
 import { Link } from "react-router-dom";
 import { Person, PersonAdd } from "react-bootstrap-icons";
-import img from "../../image/calendar.png";
 
 function Navbar() {
   return (
